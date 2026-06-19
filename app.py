@@ -50,4 +50,4 @@ def iniciar_automatizacion():
 # Esto evita que el bucle arranque cuando hacemos la prueba unitaria
 if __name__ == '__main__':
     iniciar_automatizacion()
-#cambio
+#cambio codigo para prueba unitaria
