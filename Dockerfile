@@ -7,5 +7,5 @@ WORKDIR /app
 # Copiamos todos los archivos a la imagen
 COPY . .
 
-# Comando por defecto para correr la automatización en tiempo real
+# Comando por defecto para correr la automatización en tiempo real hhh
 CMD ["python", "-u", "app.py"]
